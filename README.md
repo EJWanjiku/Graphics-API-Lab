@@ -55,4 +55,4 @@ Then visit `http://localhost:8080`.
 
 ## Author
 
-Individual work submission — Graphics API Lab
+Esther Jesicah Wanjiku (166232) — Graphics API Lab
